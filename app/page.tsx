@@ -202,7 +202,7 @@ export default function SarvanetraLanding() {
         </div>
       </header>
 
-      <main className="pt-8">
+      <main className="pt-16 md:pt-8">
         {/* Hero Section */}
         <section 
           id="home" 
